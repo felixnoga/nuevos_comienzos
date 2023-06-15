@@ -14,11 +14,11 @@ export default function Actividades() {
         <Col md={6}>
           <Image src='ocio_page.jpg' fluid></Image>
         </Col>
-        <Col md={6}>
+        <Col md={6} className='mt-4'>
           <p>
             Madrid es una ciudad con mucha historia y cultura.Existen variedad
             de actividades que podemos hacer en esta ciudad y que van desde
-            visitar un museo a asistir a una representación teatral,Muchas de
+            visitar un museo a asistir a una representación teatral. Muchas de
             estas actividades cuentan con descuentos o incluso puedes encontrar
             algunas completamente gratuitas.
           </p>
