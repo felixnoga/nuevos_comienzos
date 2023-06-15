@@ -45,8 +45,8 @@ export default function Servicios() {
             La Comunidad de Madrid ofrece variedad de cursos y formaciones
             especialmente orientados hacia la integración de la población
             inmigrante como pueden ser talleres de orientación laboral o de
-            trabajo con menores.Muchas de estas actividades se realizan de forma
-            telemática aunque también pueden acudir a uno de los múltiples
+            trabajo con menores. Muchas de estas actividades se realizan de
+            forma telemática aunque también pueden acudir a uno de los múltiples
             centros que tienen por Madrid.
           </p>
           <ListGroup className='mb-3'>

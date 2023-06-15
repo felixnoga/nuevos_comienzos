@@ -19,7 +19,7 @@ export default function Programas() {
           <p>
             En España existen varias ayudas (económicas,formativas y
             laborales,sanitarias,etc) a la que se pueden optar aún siendo
-            irregular vuestra condición en el país.También podéis informaros
+            irregular vuestra condición en el país. También podéis informaros
             sobre los trámites para solicitar asilo político o la condición de
             refugiados en el siguiente enlace:
             <ListGroup className='mt-3'>
@@ -59,12 +59,12 @@ export default function Programas() {
           </p>
           <p>
             En el primer enlace encontraremos todas las gestiones que pueden
-            necesitar (reagrupación familiar,parejas de hecho,etc.) explicadas
+            necesitar (reagrupación familiar,parejas de hecho,etc...) explicadas
             una por una así como información relevante sobre estas (tasas de
             extranjería, todos los formularios a rellenar según tu necesidad,
-            etc.) En el segundo se encuentra una serie de apartados de interés
-            común e información y orientación acerca de estos,con la intención
-            de facilitar la integración.
+            etc...). En el segundo se encuentra una serie de apartados de
+            interés común e información y orientación acerca de estos, con la
+            intención de facilitar la integración.
           </p>
           <ListGroup className='mt-3'>
             <ListGroup.Item variant='dark'>Enlaces:</ListGroup.Item>
