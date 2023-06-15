@@ -6,16 +6,15 @@ export default function Actividades() {
       <Row>
         <Col>
           <h3>
-            {' '}
             <FcLandscape /> Ocio y Actividades
           </h3>
         </Col>
       </Row>
       <Row className='mt-4'>
-        <Col>
+        <Col md={6}>
           <Image src='ocio_page.jpg' fluid></Image>
         </Col>
-        <Col>
+        <Col md={6}>
           <p>
             Madrid es una ciudad con mucha historia y cultura.Existen variedad
             de actividades que podemos hacer en esta ciudad y que van desde
